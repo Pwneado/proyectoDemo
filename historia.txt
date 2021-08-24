@@ -3,3 +3,5 @@ el incicio de probar git y ubuntu mediante wsl2
 prueba de cambio en el archivo de git para guardar 
 
 el inicio de la historia de las chapas sera lo que veremos....talvez
+
+esta liea es para probar si tengo vim
