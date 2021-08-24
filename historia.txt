@@ -4,4 +4,4 @@ prueba de cambio en el archivo de git para guardar
 
 el inicio de la historia de las chapas sera lo que veremos....talvez
 
-esta liea es para probar si tengo vim
+se cambio al editor de vim para que se a el determinado en la terminal
