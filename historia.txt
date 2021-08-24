@@ -1,0 +1,1 @@
+el incicio de probar git y ubuntu mediante wsl2
