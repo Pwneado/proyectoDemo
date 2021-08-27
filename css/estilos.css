@@ -5,10 +5,19 @@ body
     font-family: Arial;
     font-size: 16px;
 }
+#cabecera
+{
+    background:darkcyan;
+    color: black;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    
+}
 #container
 {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid blue;
     margin: auto;
@@ -17,4 +26,8 @@ body
 #container h1
 {
     font-size: 20px;
+}
+#post
+{
+    padding: 1em;
 }
